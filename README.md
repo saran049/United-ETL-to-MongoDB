@@ -4,7 +4,7 @@ Summary of the project:
 
 United Super Markets data that consist of 5 flat files and one of which is scraped data.
 
-The aim was to examine the data, conduct the cleansing process and transform the data to make them ready to load to the NoSQL database, namely to Mongo DB. Item list file is updated with the new “UPC” detail by comparing the existing item list with the extracted item list details from FTP server. The scrapped data contains the prices of the competitors which can be used by the United Super Markets to compare their prices with them and change accordingly.
+The aim was to examine the data, conduct the cleansing process and transform the data to make them ready to load to the NoSQL database, namely to Mongo DB. Compare the existing list with the scraped list details from FTP server. The scrapped data contains the prices of the competitors which can be used by the United Super Markets to compare their prices with them and change accordingly.
 
 Resources:
 
